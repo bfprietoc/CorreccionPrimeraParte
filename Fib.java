@@ -19,7 +19,7 @@ package fibonacci;
 
 /**
  *
- * @author Sergio Ruiz
+
  */
 public class Fibonacci {
 
